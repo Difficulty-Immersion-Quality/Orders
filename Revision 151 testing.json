@@ -9,16 +9,8 @@
       "Name": "ImpUI_P8_Fork"
     },
     {
-      "UUID": "171cfb95-2e00-dc2a-03f6-f672b4650d95",
-      "Name": "HybridUI"
-    },
-    {
       "UUID": "baf029fa-af6e-4080-bd6a-abacdea9e684",
       "Name": "KaiLime UI"
-    },
-    {
-      "UUID": "0570792d-f161-433d-b7b9-a65c2bdd58db",
-      "Name": "KAZSTRA CC Body Tattoo Selector"
     },
     {
       "UUID": "1186f940-7338-fe24-6649-aff698541b7f",
@@ -111,6 +103,10 @@
     {
       "UUID": "2f8f216d-dd2a-7731-cf1e-9d6bae9eb04a",
       "Name": "Better Various Widgets"
+    },
+    {
+      "UUID": "1ae4224b-23fc-dafe-06e4-fb251d1919bd",
+      "Name": "Better Trade Menu"
     },
     {
       "UUID": "b828c231-859e-46f8-b955-9a8ac1f3b610",
@@ -265,6 +261,10 @@
       "Name": "Oops All Characters!"
     },
     {
+      "UUID": "7ea21a3c-3922-46fe-a258-26d396dcd686",
+      "Name": "Feat Requirements Framework"
+    },
+    {
       "UUID": "f7383036-7c4f-4b34-9b92-ef6c2c9afc41",
       "Name": "================|            Libraries - Spells"
     },
@@ -411,10 +411,6 @@
     {
       "UUID": "78349e9e-8703-4ccb-a9bd-179a1e3bbb88",
       "Name": "================|            Textures - Equipment"
-    },
-    {
-      "UUID": "83dd0f33-6b3d-415c-be02-fdfd4739f377",
-      "Name": "vtex_to_tex"
     },
     {
       "UUID": "2209e71c-cb59-1e55-fccd-22ab678596aa",
@@ -565,10 +561,6 @@
       "Name": "MoreReactiveCompanions_Configurable"
     },
     {
-      "UUID": "21aa0c53-da44-f446-5f2b-e356f3c642e6",
-      "Name": "Ziphop - Teleport My Characters"
-    },
-    {
       "UUID": "e9a47cc1-2919-4936-a9b6-2adf6f495394",
       "Name": "RemoveBrokenObjectsSpell"
     },
@@ -618,11 +610,11 @@
     },
     {
       "UUID": "fc5ecba8-bcb0-423f-a0b4-f8537322c7bd",
-      "Name": "Journal"
+      "Name": "Mazzle's Tav's Journal"
     },
     {
       "UUID": "f0a0f197-8b85-438c-9a71-a9d76d0e9d70",
-      "Name": "FreeCam"
+      "Name": "Mazzle's FreeCam"
     },
     {
       "UUID": "d347879f-4a0f-4868-9987-528f21040d01",
@@ -645,6 +637,10 @@
       "Name": "Mod Uninstaller"
     },
     {
+      "UUID": "458dfb5a-111c-4d04-b9be-6c1ef61d8d16",
+      "Name": "Partial Respec"
+    },
+    {
       "UUID": "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156",
       "Name": "EasyCheat"
     },
@@ -661,24 +657,16 @@
       "Name": "ReassignNecromancyOfThay"
     },
     {
-      "UUID": "7b8366bd-abc1-4f9f-ba9d-585549b4a750",
-      "Name": "AppearanceEditEnhanced"
-    },
-    {
-      "UUID": "60de8215-7e9f-4cb6-9763-05aa6aecf257",
-      "Name": "AppearanceEditOrigins"
-    },
-    {
-      "UUID": "8d23b363-3880-46c1-a378-373223569100",
-      "Name": "UT/KAVT Universal Automatic Patcher"
-    },
-    {
       "UUID": "390fe96d-d38a-49ef-a522-9335d0a948d6",
       "Name": "Race CC Universal Automatic Patcher (UAP)"
     },
     {
       "UUID": "b42552c8-4642-4c3a-b0e2-422822348fd6",
       "Name": "Head VFX Universal Automatic Patcher (UAP)"
+    },
+    {
+      "UUID": "708a30d3-60b8-4241-87b9-9c44cfc10712",
+      "Name": "Glow Eyes Universal Automatic Patcher (UAP)"
     },
     {
       "UUID": "1fc366f3-d7f1-4b04-98bf-deafe06efb77",
@@ -703,6 +691,10 @@
     {
       "UUID": "71f4c896-045d-4bb9-b7ad-55f1332b61d2",
       "Name": "SpellListSorter"
+    },
+    {
+      "UUID": "0c5a45b6-4887-4204-bd5a-926f8e9c820d",
+      "Name": "Reciprocal Approval"
     },
     {
       "UUID": "112e0acf-1655-40a1-845e-abe3a2a52604",
@@ -746,11 +738,11 @@
     },
     {
       "UUID": "ff6813a7-fe30-4e1e-98d5-2210f1b69a14",
-      "Name": "EndTurnExploitFix"
+      "Name": "End-turn Exploit Fix"
     },
     {
       "UUID": "5470bce5-0ad7-4e05-287f-2d6fa3e9eb04",
-      "Name": "Missing Starting Passives Fix"
+      "Name": "Missing Starting Passives Fixed"
     },
     {
       "UUID": "00be86ea-b0f0-92c1-ca56-f047941fa7b6",
@@ -763,6 +755,14 @@
     {
       "UUID": "b05f6ce7-e57d-4ed4-bedf-8a5b4c1651db",
       "Name": "Mazzle's Group Climbing Fix"
+    },
+    {
+      "UUID": "403981cf-2d44-462c-9ccf-c83e35a97a40",
+      "Name": "Finished Business"
+    },
+    {
+      "UUID": "d0a44f6f-a789-4d42-be1e-5fef92eb2444",
+      "Name": "Extended Boat Crew to 32"
     },
     {
       "UUID": "a9697039-d583-4af3-8274-44debc58dd66",
@@ -829,6 +829,10 @@
       "Name": "Custom Disguise Self Appearance"
     },
     {
+      "UUID": "55405288-7f36-4086-81a0-e70cefec52d7",
+      "Name": "Dynamic Camera Rotation Sensitivity"
+    },
+    {
       "UUID": "b221c733-55aa-432c-ae6d-37198b348e6a",
       "Name": "DIQ Community CPF Presets"
     },
@@ -890,7 +894,19 @@
     },
     {
       "UUID": "5b127407-1697-4c6b-986f-15fed6415375",
-      "Name": "GizmoLib"
+      "Name": "Mazzle's GizmoLib (Move, Rotate, Scale Anything)"
+    },
+    {
+      "UUID": "cab43dc3-386a-4a6f-be00-3721b55ee603",
+      "Name": "Mazzle's FOCK (Floating Overhead Clutter Killer)"
+    },
+    {
+      "UUID": "d686bf9f-7f11-4da8-8ed1-4e17a2256988",
+      "Name": "Mazzle's Everybody Blinks"
+    },
+    {
+      "UUID": "d7119baf-4001-4f3a-9dca-ca06f8565e78",
+      "Name": "Mazzle's Stolen Glances"
     },
     {
       "UUID": "cf992669-1146-48cd-ad25-6ce6e2f94491",
@@ -1053,6 +1069,10 @@
       "Name": "ZillionZ of Expressions by Echo"
     },
     {
+      "UUID": "89563f25-cd72-a4a8-5b85-9160ab634d42",
+      "Name": "Alida_Solo_BT1"
+    },
+    {
       "UUID": "c53d8482-26c0-4625-1773-884bb7fe9236",
       "Name": "FF Mega Pose Pack"
     },
@@ -1075,6 +1095,10 @@
     {
       "UUID": "ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec",
       "Name": "Starting Equipment Restored"
+    },
+    {
+      "UUID": "a1e921ae-8aa2-655c-c399-cfd97ed46f4c",
+      "Name": "Starting Equipment Selection"
     },
     {
       "UUID": "81b01862-94bc-43c6-93f2-c28c3bddd66e",
@@ -1323,6 +1347,10 @@
     {
       "UUID": "e4ee55aa-1b75-43e4-a640-7096a1cc5e44",
       "Name": "AgileArmor"
+    },
+    {
+      "UUID": "8d85816b-da6c-f582-adb4-2e8e3f873beb",
+      "Name": "ONYX - Apostasy"
     },
     {
       "UUID": "74587bec-0499-48d1-9b6c-25c38afddbac",
@@ -1585,6 +1613,18 @@
       "Name": "Fashion in the streets - Dishonored 2 outfits"
     },
     {
+      "UUID": "9d303cfb-24a7-409b-ae06-64fdc8754bc6",
+      "Name": "Dark Wizard - Sorceress outfit"
+    },
+    {
+      "UUID": "d3b7cffb-4072-4e48-8660-f3c627a3037a",
+      "Name": "Ornamental Leg Accessories"
+    },
+    {
+      "UUID": "2d750884-92c7-47b4-8648-c37d4db6abe5",
+      "Name": "Tail Accessories"
+    },
+    {
       "UUID": "dee9554e-02c2-4a36-9f85-546c539fb2ed",
       "Name": "HW_HeadpieceAddon"
     },
@@ -1641,6 +1681,10 @@
       "Name": "ModularEquipment"
     },
     {
+      "UUID": "520e4b59-73d4-459b-9d36-553fa647ce3e",
+      "Name": "Modular Equipment Refits"
+    },
+    {
       "UUID": "8d728345-dd5b-49f7-aaf8-f4a08733b243",
       "Name": "ModularCiri"
     },
@@ -1650,7 +1694,7 @@
     },
     {
       "UUID": "df35c952-9f35-4cb8-ba78-fc00a7005c84",
-      "Name": "lokelani's lavish livery - UTav "
+      "Name": "lokelani's lavish livery"
     },
     {
       "UUID": "314520e9-036c-44c7-8ac0-fbf4f38bbff1",
@@ -2037,10 +2081,6 @@
       "Name": "DFindFamiliarMageHand"
     },
     {
-      "UUID": "78753062-b430-4cbf-9e5a-4c3a87cf224a",
-      "Name": "Scratch And Shovel"
-    },
-    {
       "UUID": "cb88e559-f04d-4ed9-9ad2-a14ffbd39c4c",
       "Name": "Hound of Ill Omen Shadow Mastiff"
     },
@@ -2230,7 +2270,11 @@
     },
     {
       "UUID": "ca3df55b-c576-41a1-87c4-3cf5f01922e4",
-      "Name": "Essential_Feats"
+      "Name": "Essential Feats"
+    },
+    {
+      "UUID": "91c2d035-4673-426b-a630-46a4f27493d6",
+      "Name": "Stackable ASI Feats - Essential Feats"
     },
     {
       "UUID": "6ab628a6-8473-401a-bc4f-bfba038c1e0f",
@@ -2849,14 +2893,6 @@
       "Name": "================|            Warlock - Subclasses"
     },
     {
-      "UUID": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
-      "Name": "The Undying Light"
-    },
-    {
-      "UUID": "e97d1110-2157-4d89-a3d7-e1277c6b274e",
-      "Name": "The Undying Light Great Old One Tag"
-    },
-    {
       "UUID": "1dc72390-16a3-4a72-acf4-0777d7bcffd9",
       "Name": "The Celestial"
     },
@@ -2977,10 +3013,6 @@
       "Name": "================|            Character Creation            |================"
     },
     {
-      "UUID": "acbca4c2-65c5-c042-7063-79f1efdd2f3a",
-      "Name": "A Gith Can Change Their Spots"
-    },
-    {
       "UUID": "3609a0b7-bd80-4e5f-9ecc-a73e281a0bc4",
       "Name": "ASTRL Colorizer - Tattoo & Makeup Color Edits"
     },
@@ -3003,10 +3035,6 @@
     {
       "UUID": "a928cce2-4253-e1e9-873a-3becbdf2d296",
       "Name": "Vanilla Eye Band Aid - Flame Blindness Edition"
-    },
-    {
-      "UUID": "4623265f-72aa-4bdb-b402-92e1ee3f055d",
-      "Name": "Origin Skin Eye and Haircolors Unlocked"
     },
     {
       "UUID": "7624f300-8a91-4878-8765-da7ac4f4ca9a",
@@ -3131,10 +3159,6 @@
     {
       "UUID": "01dc8eb5-fe1b-4518-8650-5502c9e281c6",
       "Name": "================|            Character Creation - Colours"
-    },
-    {
-      "UUID": "6a24c580-429a-c568-1eda-0213dbb1ae03",
-      "Name": "EZN Metallic Body Tattoo Colours for CC"
     },
     {
       "UUID": "796c7e2f-f728-4e08-8511-1ce7332527ab",
@@ -3277,20 +3301,16 @@
       "Name": "Half-Tiefs - Flora and Fauna (Custom Horn Pack)"
     },
     {
+      "UUID": "144130e9-5eaf-48c3-b28f-446a0c2481aa",
+      "Name": "Half-Tiefs"
+    },
+    {
       "UUID": "f4b0a342-4eaa-4b94-a205-cc8b591de4b3",
       "Name": "ASTRL Fluffy Ears"
     },
     {
-      "UUID": "5345921a-ba9c-4600-8b46-38ad84d010da",
-      "Name": "Fox Ears"
-    },
-    {
       "UUID": "e40a839d-562c-4f05-99ae-573060ce8d8a",
       "Name": "Bunny Ears"
-    },
-    {
-      "UUID": "144130e9-5eaf-48c3-b28f-446a0c2481aa",
-      "Name": "Half-Tiefs"
     },
     {
       "UUID": "cd746aea-0e54-4ed5-a7e9-f4d7b85de6cc",
@@ -3371,6 +3391,10 @@
     {
       "UUID": "563ae15e-830c-4a64-8bbc-1c0f0564b325",
       "Name": "================|            Character Creation - Dragonborn"
+    },
+    {
+      "UUID": "cac3c15c-df89-3940-2e33-aadcd3a52145",
+      "Name": "AAA Dragonborn Safety Net - Asset Catcher"
     },
     {
       "UUID": "d38b29fc-44ab-2017-6de0-aa8241e9ba40",
@@ -3470,7 +3494,7 @@
     },
     {
       "UUID": "99a2cc89-d379-4f76-bbb0-a5cb4fed50d9",
-      "Name": "Nzx's Heads [Glow Eyes] -  ⸢ Yir'eh ⸥"
+      "Name": "Nzx's Heads -  ⸢ Yir'eh ⸥"
     },
     {
       "UUID": "8377a991-ae75-4286-8841-a9be74aada4d",
@@ -3570,7 +3594,7 @@
     },
     {
       "UUID": "144059e8-4596-4fcd-8882-4fe69fc2c9a3",
-      "Name": "Geralt - Henry Cavill [astrl]"
+      "Name": "Geralt - Henry Cavill [standalone]"
     },
     {
       "UUID": "0b069063-5304-4cce-949d-96626be3530a",
@@ -3735,6 +3759,62 @@
     {
       "UUID": "dee6dde4-f9f5-456b-b7e3-5ac2eb87f87d",
       "Name": "Ellian's Heads"
+    },
+    {
+      "UUID": "a00ebde2-16d7-415f-b4df-ebd8fc2d828b",
+      "Name": "================|            Character Creation - Scars"
+    },
+    {
+      "UUID": "755881f2-85fd-45db-8668-d19dae4d79cf",
+      "Name": "================|            Character Creation - UTAV & KAVT"
+    },
+    {
+      "UUID": "2b9e05c8-d15a-3ac2-7237-6aa263f1dceb",
+      "Name": "STAV"
+    },
+    {
+      "UUID": "fc77b87d-2714-4545-99f4-db8042760e8d",
+      "Name": "STAV [VT]"
+    },
+    {
+      "UUID": "869f6f17-3ea8-5e35-9b82-a1b7fc565a29",
+      "Name": "STAVFishScales"
+    },
+    {
+      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
+      "Name": "ASTRL Glowing Eyes"
+    },
+    {
+      "UUID": "821458ca-72d0-4258-9fca-12e581cab3fa",
+      "Name": "================|            Character Creation - Tails"
+    },
+    {
+      "UUID": "d2c84b89-b3b0-494a-a6a4-8be33f9ccd31",
+      "Name": "Tailless_Tieflings [No Tail stubs]"
+    },
+    {
+      "UUID": "47dd0512-82ea-401f-80e4-c8633105c331",
+      "Name": "Accursed Spectre Tails For Tieflings (and other races)"
+    },
+    {
+      "UUID": "3601235b-3dd9-4b60-a1c7-2d7701ca1d44",
+      "Name": "Tiefling Rat Tail"
+    },
+    {
+      "UUID": "7138dd34-d9d8-4820-b6f2-6add152f1ae6",
+      "Name": "FelineStarterPack"
+    },
+    {
+      "UUID": "4ce856d6-5c81-47d1-95f4-b83e33e63c56",
+      "Name": "VulpineStarterPack"
+    },
+    {
+      "UUID": "c6167c45-fa70-47da-a389-653746dd151f",
+      "Name": "FurryTails - Fluffy Animal Tail Collection"
+    },
+    {
+      "UUID": "5345921a-ba9c-4600-8b46-38ad84d010da",
+      "Name": "Fox Ears"
     },
     {
       "UUID": "6c87c3f8-f3a3-4c3c-a395-7b09f85e5067",
@@ -3925,8 +4005,8 @@
       "Name": "Alt Lae'zel Hair 4 Tav"
     },
     {
-      "UUID": "1692d421-5863-4829-82a7-7986044bf673",
-      "Name": "[M30] Su-Metal's Hair"
+      "UUID": "01dcf4a1-32da-5599-0681-bb95bec5ebbc",
+      "Name": "[M30] Babymetal Hairs"
     },
     {
       "UUID": "4cb5e6ec-93d3-4859-9321-23020f3df0d8",
@@ -3991,6 +4071,10 @@
     {
       "UUID": "73cddf26-053f-47e1-9426-4ea15c49de43",
       "Name": "more Dreads and curly hairpack 03"
+    },
+    {
+      "UUID": "68ba0513-804a-4461-9656-8ed022b338a8",
+      "Name": "Bububull's spooky hairpack"
     },
     {
       "UUID": "e550e525-99ad-4184-944d-d804f19e3743",
@@ -4101,70 +4185,6 @@
       "Name": "KS HAIR Edits Pack"
     },
     {
-      "UUID": "a00ebde2-16d7-415f-b4df-ebd8fc2d828b",
-      "Name": "================|            Character Creation - Scars"
-    },
-    {
-      "UUID": "fb93b259-a4eb-4894-b1c9-9f71e17ccac5",
-      "Name": "KAZSTRA Scarred Visage"
-    },
-    {
-      "UUID": "368caa85-ffa5-4a7e-ab3d-a1b215403f63",
-      "Name": "ASTRL Tav with a Backstory - Scars"
-    },
-    {
-      "UUID": "755881f2-85fd-45db-8668-d19dae4d79cf",
-      "Name": "================|            Character Creation - UTAV & KAVT"
-    },
-    {
-      "UUID": "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae",
-      "Name": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender"
-    },
-    {
-      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
-      "Name": "ASTRL Glowing Eyes"
-    },
-    {
-      "UUID": "4b1035f1-6e41-4591-8516-72752a448681",
-      "Name": "ASTRL Glowing Eyes Unique Tav Patch"
-    },
-    {
-      "UUID": "a175d16b-2a1b-4711-9b26-2002f8a83f18",
-      "Name": "Scantily Outfit Separator Unique Tav Patch"
-    },
-    {
-      "UUID": "7dedc9d4-dde0-4a0d-b505-ca7999bcbc18",
-      "Name": "Jerinski's Alt Makeup"
-    },
-    {
-      "UUID": "821458ca-72d0-4258-9fca-12e581cab3fa",
-      "Name": "================|            Character Creation - Tails"
-    },
-    {
-      "UUID": "92bfe04b-b305-4af0-8abd-b31191de5bed",
-      "Name": "Alternate Tiefling Tails UT"
-    },
-    {
-      "UUID": "47dd0512-82ea-401f-80e4-c8633105c331",
-      "Name": "Accursed Spectre Tails For Tieflings (and other races)"
-    },
-    {
-      "UUID": "3601235b-3dd9-4b60-a1c7-2d7701ca1d44",
-      "Name": "Tiefling Rat Tail"
-    },
-    {
-      "UUID": "7138dd34-d9d8-4820-b6f2-6add152f1ae6",
-      "Name": "FelineStarterPack"
-    },
-    {
-      "UUID": "4ce856d6-5c81-47d1-95f4-b83e33e63c56",
-      "Name": "VulpineStarterPack"
-    },
-    {
-      "UUID": "c6167c45-fa70-47da-a389-653746dd151f",
-      "Name": "FurryTails - Fluffy Animal Tail Collection"
-    },
-    {
       "UUID": "cfab726a-7b7c-4d0f-936c-d603366a80f5",
       "Name": "================|            Character Creation - Accessories"
     },
@@ -4199,6 +4219,10 @@
     {
       "UUID": "998f9c22-0004-f07a-f794-5a153e978e65",
       "Name": "NPC Portrait Fixes"
+    },
+    {
+      "UUID": "4dcadaf7-7fb3-ba8d-1954-e4a17b324a11",
+      "Name": "Dirt B Gone - NPC All in One"
     },
     {
       "UUID": "a6e0870a-0eab-62ce-9f4d-d5608e158ded",
@@ -4241,8 +4265,8 @@
       "Name": "ABSolutely Normie Females Softer"
     },
     {
-      "UUID": "d7a448de-1836-43a3-88ec-0f7f32c01cba",
-      "Name": "Underbrows"
+      "UUID": "ce51e0f1-a08f-4703-9701-43972ff58b83",
+      "Name": "Underbrows STAV"
     },
     {
       "UUID": "cbf33e01-9295-43ff-ac7b-0cfa0851b701",
@@ -4365,8 +4389,8 @@
       "Name": "AylinRedone"
     },
     {
-      "UUID": "e6fdd6dd-cdb4-4041-2d3e-42dc99254f88",
-      "Name": "GortashRedone"
+      "UUID": "e536562c-be84-c8a3-c68f-7a1645fcc122",
+      "Name": "GortashReduxia"
     },
     {
       "UUID": "f2261d17-94f5-a9fc-210c-73bf665da697",
@@ -4409,10 +4433,6 @@
       "Name": "Mirie Attendant of Grief - Restyled"
     },
     {
-      "UUID": "e736f594-9e11-cc82-a9fd-a2076c510d5c",
-      "Name": "Ravengard_Restyle_OGbald"
-    },
-    {
       "UUID": "f7dd2b32-f1d0-d528-3d0c-831325e7db35",
       "Name": "Hope Restyled"
     },
@@ -4447,10 +4467,6 @@
     {
       "UUID": "23cdea78-07a9-f84a-df14-a86d2602b1a9",
       "Name": "Florrick's Retinue"
-    },
-    {
-      "UUID": "2b6f55ad-8c57-5e7a-ab19-7c07fc193f68",
-      "Name": "Florrick - Dirt B Gone"
     },
     {
       "UUID": "6a7c5c19-191b-3122-905d-5422fdb5cad3",
@@ -4517,12 +4533,16 @@
       "Name": "================|            Character Visuals - Companions"
     },
     {
-      "UUID": "b601b610-df9f-9a9f-29e0-6ea1557cfb00",
-      "Name": "Gather Your Allies | No Casual Friday"
+      "UUID": "91994363-833a-4956-a552-acf0341c2e2e",
+      "Name": "Baldur's Emporium"
     },
     {
-      "UUID": "317a3d19-86fa-4636-98c4-9203de9778d0",
-      "Name": "Galestarion"
+      "UUID": "f88dd498-f085-433d-b8ee-10b7f5aa0ef7",
+      "Name": "Nightwarden Minthara"
+    },
+    {
+      "UUID": "b601b610-df9f-9a9f-29e0-6ea1557cfb00",
+      "Name": "Gather Your Allies | No Casual Friday"
     },
     {
       "UUID": "cf99e2ea-fd51-0e55-a358-9562fe427c3e",
@@ -4545,36 +4565,12 @@
       "Name": "wizardly-updo-nexus"
     },
     {
-      "UUID": "d67a8854-3302-6327-b1d0-9934b4bd50bc",
-      "Name": "NF_0_GaleBeardFix"
-    },
-    {
-      "UUID": "ca525ed8-fe32-6f11-2987-2695f4e49023",
-      "Name": "NF_2_GalePiercings"
-    },
-    {
-      "UUID": "930aef46-7e81-4f95-9ebe-42470cabf22f",
-      "Name": "Shadowheart Shapeshift Haircolor Fix"
-    },
-    {
-      "UUID": "bc182c51-e540-439a-ad6c-42c2a5aecb10",
-      "Name": "Shadowheart Act 3 Hair Accessory Restored"
-    },
-    {
-      "UUID": "da0e67ce-4c44-6b35-3391-571dd447588a",
-      "Name": "ABSolutely Shadowheart Softer"
+      "UUID": "7387b092-4b33-d6ba-99b2-32b410811648",
+      "Name": "Shadowheart_Hair_Physics"
     },
     {
       "UUID": "42b0949c-7ee9-47e1-9f2c-5c96acac1458",
       "Name": "Lae'zel's Silver Earrings"
-    },
-    {
-      "UUID": "99cc220b-938b-4b61-895c-1470aa68b39a",
-      "Name": "ABSolutely Lae'zel"
-    },
-    {
-      "UUID": "ce1eb298-df2d-ae8e-2d98-c525bbfc7cc7",
-      "Name": "Ripped Body Retex - Wyll"
     },
     {
       "UUID": "3e10c93d-2f16-4490-abfc-ccaaf07dc49a",
@@ -4583,14 +4579,6 @@
     {
       "UUID": "53a98bd4-d7b2-4a9e-aba5-467c259c6f1e",
       "Name": "Sending_Stone_Wyll_C"
-    },
-    {
-      "UUID": "9abc62c6-1122-47fa-863b-c74ede588a62",
-      "Name": "Jaheira's Earring"
-    },
-    {
-      "UUID": "f88dd498-f085-433d-b8ee-10b7f5aa0ef7",
-      "Name": "Nightwarden Minthara [Adytum]"
     },
     {
       "UUID": "97936b93-0393-4de9-b8ca-ff4419ad04e4",
@@ -4627,6 +4615,10 @@
     {
       "UUID": "2019abd3-d5e4-7556-74c3-f84559b1c196",
       "Name": "Runestone And Grymforge Dice"
+    },
+    {
+      "UUID": "49480de6-8296-974e-ed7c-c19df7f76d8f",
+      "Name": "Deities Dice Pack"
     },
     {
       "UUID": "6eaf9c0e-3935-4441-8699-f013501d6ba3",
@@ -4753,6 +4745,10 @@
       "Name": "StormDice"
     },
     {
+      "UUID": "a40319b3-30d5-81f3-668f-7bdf6d0fabdb",
+      "Name": "Storm And Spectral Dice"
+    },
+    {
       "UUID": "c24bf755-90b2-406d-8d60-99b694881bcb",
       "Name": "Moonlilia's Glassy Gaze"
     },
@@ -4789,6 +4785,10 @@
       "Name": "ChristmasDiceSet"
     },
     {
+      "UUID": "ffabfe26-1cd2-15f7-4819-730b3254fc0e",
+      "Name": "HalloweenDicePack"
+    },
+    {
       "UUID": "3cceef9f-768b-4e9d-8501-2fee08af8fa2",
       "Name": "================|            Dialogue Edits            |================"
     },
@@ -4803,6 +4803,14 @@
     {
       "UUID": "c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6",
       "Name": "Dark Urge Isobel Reward Fixed"
+    },
+    {
+      "UUID": "e56e87e9-d0ea-15e0-b52a-b229cbb39580",
+      "Name": "Blighted Village Goblins Protect True Soul Fixed"
+    },
+    {
+      "UUID": "96adc25a-d44c-4f0e-8fb8-c809de031440",
+      "Name": "Companion Gale Can Consume Shadow Weave"
     },
     {
       "UUID": "f71ec5a7-0000-a271-befa-26a1682ac745",
@@ -4919,6 +4927,10 @@
     {
       "UUID": "fb3240da-7a9c-e5e3-096c-17b855a169e5",
       "Name": "HT_Sit With Astarion"
+    },
+    {
+      "UUID": "dbd8d236-ca6e-00ce-0a87-9eaffb18d796",
+      "Name": "HT_Wyll You Sit With Me?"
     },
     {
       "UUID": "87cbd5af-34b2-f511-7606-93b389a09cbd",
@@ -5257,16 +5269,16 @@
       "Name": "Ultimate NPC Stat Overhaul - Core - Extras"
     },
     {
-      "UUID": "61e8471b-4eda-4493-829d-e3c29ecc36c3",
+      "UUID": "3763e174-332f-4aed-b675-bf0a6c117fae",
       "Name": "Ultimate NPC Stat Overhaul - CX"
     },
     {
-      "UUID": "445cacd6-70b2-43ca-8f09-1836da616e8a",
+      "UUID": "3719878e-cdaa-4a68-be5f-d66cc320782f",
       "Name": "Ultimate NPC Stat Overhaul - CX - Extras"
     },
     {
       "UUID": "fc24e533-8554-46f9-8ef9-60a71b33c48e",
-      "Name": "Goon's Short Legs Overhaul - UNSO"
+      "Name": "Goon's Short Legs Overhaul - UNSO - CX"
     },
     {
       "UUID": "bc112f05-f5d1-4b59-9a9f-fd8867616d03",
@@ -5461,16 +5473,16 @@
       "Name": "Patches for CC Races lsx"
     },
     {
-      "UUID": "df90923d-d328-4d3c-80c5-cc75f036f6ad",
-      "Name": "CF_Oathbreaker_Removal"
-    },
-    {
       "UUID": "adaf0d39-f797-49cd-a039-4e24b219fca8",
       "Name": "================|            Bottoms            |================"
     },
     {
       "UUID": "7131033f-821a-3993-dad4-5bc235cbeb3b",
       "Name": "AnimationUnlocker"
+    },
+    {
+      "UUID": "df90923d-d328-4d3c-80c5-cc75f036f6ad",
+      "Name": "CF_Oathbreaker_Removal"
     },
     {
       "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
