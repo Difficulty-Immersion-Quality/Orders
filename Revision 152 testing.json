@@ -1154,7 +1154,7 @@
     },
     {
       "UUID": "c2280d10-1be4-420c-9cf6-285d1e5d27a4",
-      "Name": "Heavy Weapons RAW 5.5e"
+      "Name": "Heavy Weapons RAW - DIQ Edition"
     },
     {
       "UUID": "f8e0f055-f3cc-43f6-8aac-b928e86c5109",
@@ -4575,6 +4575,10 @@
     {
       "UUID": "7387b092-4b33-d6ba-99b2-32b410811648",
       "Name": "Shadowheart_Hair_Physics"
+    },
+    {
+      "UUID": "bc182c51-e540-439a-ad6c-42c2a5aecb10",
+      "Name": "Shadowheart Act 3 Hair Accessory Restored"
     },
     {
       "UUID": "42b0949c-7ee9-47e1-9f2c-5c96acac1458",
