@@ -1,6 +1,14 @@
 {
   "Order": [
     {
+      "UUID": "558275e7-d7f2-4cfe-821e-cba7933c0db9",
+      "Name": "InheritancePop"
+    },
+    {
+      "UUID": "34b48c74-71ff-4386-87bc-83f6e8cb654d",
+      "Name": "Mod Change Tracker"
+    },
+    {
       "UUID": "26922ba9-6018-5252-075d-7ff2ba6ed879",
       "Name": "ImpUI_P8_Fork"
     },
@@ -29,12 +37,20 @@
       "Name": "Oops All Characters!"
     },
     {
+      "UUID": "d94d61bd-b8e8-1d24-abec-4fdfcc31c316",
+      "Name": "Combat Log Viewer"
+    },
+    {
       "UUID": "b8efd00b-375b-5f97-e28f-c33d3ef7311a",
       "Name": "EnhancedWorldTooltips"
     },
     {
       "UUID": "ad95bd1c-1a80-45fb-b73b-9eea1f8e58d0",
       "Name": "Mazzle's EZ-Documentation"
+    },
+    {
+      "UUID": "9bdb11b8-8989-4e12-9ed4-6840ec6ea7d9",
+      "Name": "Mazzle's Maps Unleashed!"
     },
     {
       "UUID": "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156",
@@ -45,12 +61,36 @@
       "Name": "Scribe"
     },
     {
+      "UUID": "3fe1bccd-53b2-460e-ab69-c8f7a8da729c",
+      "Name": "Console Commands"
+    },
+    {
       "UUID": "26e7658b-ae40-46f2-b032-405e2fb09719",
       "Name": "ProgressionPreview"
     },
     {
+      "UUID": "a094bf38-22df-435d-84cd-04f07106caec",
+      "Name": "Sensible Mod Info"
+    },
+    {
+      "UUID": "65e7a041-76e3-4278-8528-8c7c14db3bff",
+      "Name": "Spell Mods Data"
+    },
+    {
+      "UUID": "91994363-833a-4956-a552-acf0341c2e2e",
+      "Name": "Baldur's Emporium"
+    },
+    {
       "UUID": "af8f78f6-2cda-1958-e5a0-1f673f2c152b",
       "Name": "DebugBook"
+    },
+    {
+      "UUID": "4cdef21a-8744-4a02-b804-679fa4ebd118",
+      "Name": "Lone Wolf Feat - SE"
+    },
+    {
+      "UUID": "a634d210-9926-494d-95bd-f263a092790e",
+      "Name": "MusicPerformWorkaround"
     },
     {
       "UUID": "a17a3a3d-5c16-404a-910a-68ae9e47f247",
