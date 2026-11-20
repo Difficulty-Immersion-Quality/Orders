@@ -97,6 +97,10 @@
       "Name": "Clear Map No Grid Only"
     },
     {
+      "UUID": "4a73a200-3153-4a50-9661-147e4440da9c",
+      "Name": "Immersive World Maps"
+    },
+    {
       "UUID": "d9582df8-6eef-a756-117f-965e22007ff6",
       "Name": "Better Topbar"
     },
@@ -421,16 +425,16 @@
       "Name": "================|            Textures - Equipment"
     },
     {
-      "UUID": "2209e71c-cb59-1e55-fccd-22ab678596aa",
-      "Name": "Padded Armour Plus 2 Texture Fix"
+      "UUID": "2b52b971-e8b8-4c8b-a62b-95bd37ee5f6a",
+      "Name": "Immersive Outfits"
+    },
+    {
+      "UUID": "0abc7ae7-39f6-4e1e-a843-5e4fa6e751e0",
+      "Name": "And Hold the Bra"
     },
     {
       "UUID": "d0f51b47-083d-44ab-ab1c-5e9ed340050b",
       "Name": "Gortash's Matching Boots"
-    },
-    {
-      "UUID": "2aa860a3-29f6-42be-8c64-ccd3288944ce",
-      "Name": "Hide Ears for Hoods"
     },
     {
       "UUID": "5b5cf34c-ebe7-4fd4-aaa2-b0be828ea209",
@@ -441,10 +445,6 @@
       "Name": "Egaokage's_Leather_Knees"
     },
     {
-      "UUID": "a2f61e50-609c-4227-9a9a-46f7ada02f28",
-      "Name": "EW_Remove_Spikes"
-    },
-    {
       "UUID": "a9ea2efd-7950-a7a2-a18a-0f6e466ae56a",
       "Name": "Shadow Blade VFX Replacer"
     },
@@ -453,28 +453,12 @@
       "Name": "Flame Blade VFX Replacer"
     },
     {
-      "UUID": "0c15116a-4d1f-44a7-bd91-8c0aa78b227d",
-      "Name": "Cy's Armor Fixes"
-    },
-    {
       "UUID": "c3a5de18-e3f4-4b9e-aaa2-3af8a6f505f1",
       "Name": "Voss' Silver Sword Glow Fix"
     },
     {
-      "UUID": "0abc7ae7-39f6-4e1e-a843-5e4fa6e751e0",
-      "Name": "And Hold the Bra"
-    },
-    {
       "UUID": "da68e6b5-0a64-4ea3-b590-edd1d35d86f0",
       "Name": "Sandal Straightener"
-    },
-    {
-      "UUID": "07191355-bffb-48ba-8591-64283c675faa",
-      "Name": "Blackguard's Plate Texture Fix"
-    },
-    {
-      "UUID": "84ac9ec3-190b-0629-bf5a-a875a5cbc9b8",
-      "Name": "Fixed Dwarven Splintmail - Intended Colors"
     },
     {
       "UUID": "aebc61cd-f507-4cbd-8def-56dfdb983dab",
@@ -605,6 +589,10 @@
       "Name": "BackstabbingFramework"
     },
     {
+      "UUID": "fd0d4a51-c986-4006-b782-f135aaef780d",
+      "Name": "Goon's Movement Toggles - Relaxing Walks and Leisurely Strolls"
+    },
+    {
       "UUID": "33762974-09ff-4a87-bd0c-d791994746d8",
       "Name": "================|            Script Extender - Utilities"
     },
@@ -631,6 +619,10 @@
     {
       "UUID": "fbee705d-2adb-4e67-b7e7-09e34d71cf6a",
       "Name": "Mazzle Level Directory"
+    },
+    {
+      "UUID": "677bbf38-2958-468a-85d4-7d30df553ea7",
+      "Name": "Mazzle's Court Of Intense Judgment"
     },
     {
       "UUID": "7a671e11-7692-463b-a873-c4353743db2d",
@@ -830,7 +822,7 @@
     },
     {
       "UUID": "4fa17abe-993c-4e7e-ab2a-e7370b166ac9",
-      "Name": "Character Preset Framework"
+      "Name": "Character Preset Framework (CPF)"
     },
     {
       "UUID": "ef97b68c-d884-4239-bafe-74293e24aea4",
@@ -1481,6 +1473,10 @@
       "Name": "Frost Knight Set By REN"
     },
     {
+      "UUID": "77a5b9d6-e52e-4d41-9c24-f232a1e4e918",
+      "Name": "Frost Knight Set - By REN - Cape Physics - zomdex Refit Female Version"
+    },
+    {
       "UUID": "9dd9d0cd-cbfc-41bc-a94b-0f26bac85c5f",
       "Name": "Wood Elf Druid Outfit By REN"
     },
@@ -1566,7 +1562,7 @@
     },
     {
       "UUID": "10ef0c70-d21b-4b11-a5f1-7fa1004d7896",
-      "Name": "Yennefer's wardrobe"
+      "Name": "The Witcher - Yennefer's wardrobe"
     },
     {
       "UUID": "3ddd8e03-320e-4842-89cc-1cacdd6bd9e5",
@@ -1623,6 +1619,10 @@
     {
       "UUID": "9d303cfb-24a7-409b-ae06-64fdc8754bc6",
       "Name": "Dark Wizard - Sorceress outfit"
+    },
+    {
+      "UUID": "6d28c856-2312-ec10-209c-aaf1daabe867",
+      "Name": "Shadow Outfit "
     },
     {
       "UUID": "d3b7cffb-4072-4e48-8660-f3c627a3037a",
@@ -2991,10 +2991,6 @@
     {
       "UUID": "f07ceb9d-875e-4e0a-ad1f-9cf0423616a6",
       "Name": "================|            Class Patches - Spell Lists"
-    },
-    {
-      "UUID": "c1cfc0d3-1251-0000-0000-90011afa0001",
-      "Name": "Spell List Adjustment - Tasha's Mind Whip for Warlocks"
     },
     {
       "UUID": "681340e0-3c0d-464a-998a-6fec834f3b7a",
@@ -5345,6 +5341,18 @@
       "Name": "Lighting Template Fixes"
     },
     {
+      "UUID": "61bf99e2-a0ee-817e-f420-adb2bcf2c3f9",
+      "Name": "SGT_Immersive Environment - Act 1"
+    },
+    {
+      "UUID": "140026d6-4bf0-d483-6a90-7452e717fdd9",
+      "Name": "SGT_Immersive Environment - Act 2"
+    },
+    {
+      "UUID": "477c0c98-58bc-28f7-e702-9af8f241a41d",
+      "Name": "SGT_Immersive Environment - Act 3"
+    },
+    {
       "UUID": "7b7943e1-f099-4dab-bfda-dbe7cef79db4",
       "Name": "================|            Environment Edits - Camp"
     },
@@ -5431,6 +5439,10 @@
     {
       "UUID": "dfb9bb62-8a60-4ed7-abf4-55d9ef6fba0e",
       "Name": "MintharaMoved"
+    },
+    {
+      "UUID": "16beb36c-b0bb-b84f-bb89-9f524c574f6c",
+      "Name": "WithersTable"
     },
     {
       "UUID": "6709e66a-2966-44a5-bd9d-aa5b57738ab4",
