@@ -1,14 +1,6 @@
 {
   "Order": [
     {
-      "UUID": "558275e7-d7f2-4cfe-821e-cba7933c0db9",
-      "Name": "InheritancePop"
-    },
-    {
-      "UUID": "34b48c74-71ff-4386-87bc-83f6e8cb654d",
-      "Name": "Mod Change Tracker"
-    },
-    {
       "UUID": "a9af5268-673c-4e27-86bf-b2b8d92f3bed",
       "Name": "================|            UI Overhauls            |================"
     },
@@ -191,6 +183,10 @@
     {
       "UUID": "0f3597c5-9ac1-47f0-b23c-70ea12785f94",
       "Name": "Adytum Nzx"
+    },
+    {
+      "UUID": "881dae4a-72ca-4ca4-b8ab-35de618dd124",
+      "Name": "BerryLib"
     },
     {
       "UUID": "6204e6e0-b5cd-42a0-ad0c-baec6b7c4c1c",
@@ -961,10 +957,6 @@
       "Name": "Shadowheart's Nightly Hairdo"
     },
     {
-      "UUID": "4d7bfe95-4c03-408a-80b4-d79729ef98d8",
-      "Name": "Tav's Nightly Hairdo"
-    },
-    {
       "UUID": "fb08d177-db10-46a1-8da4-bc51a94de5b4",
       "Name": "Custom Smart Containers"
     },
@@ -1069,6 +1061,10 @@
       "Name": "ZillionZ of Expressions by Echo"
     },
     {
+      "UUID": "c32b4838-5fad-35e4-1fbc-ffc92d36ae6f",
+      "Name": "ZillionZ_of_Animations_by_Echo"
+    },
+    {
       "UUID": "89563f25-cd72-a4a8-5b85-9160ab634d42",
       "Name": "Alida_Solo_BT1"
     },
@@ -1083,6 +1079,10 @@
     {
       "UUID": "17b21d55-5d5c-92ad-e002-a40d5d52afe3",
       "Name": "FF Mega Pack - Patch"
+    },
+    {
+      "UUID": "019e8a3a-15ad-73af-9ee6-204b7a74a692",
+      "Name": "UniversalPosePatcher"
     },
     {
       "UUID": "69c14ac9-c1d4-43ea-95ef-c9281f4987ae",
@@ -1619,10 +1619,6 @@
     {
       "UUID": "9d303cfb-24a7-409b-ae06-64fdc8754bc6",
       "Name": "Dark Wizard - Sorceress outfit"
-    },
-    {
-      "UUID": "6d28c856-2312-ec10-209c-aaf1daabe867",
-      "Name": "Shadow Outfit "
     },
     {
       "UUID": "d3b7cffb-4072-4e48-8660-f3c627a3037a",
@@ -3765,10 +3761,6 @@
       "Name": "Ellian's Heads"
     },
     {
-      "UUID": "a00ebde2-16d7-415f-b4df-ebd8fc2d828b",
-      "Name": "================|            Character Creation - Scars"
-    },
-    {
       "UUID": "755881f2-85fd-45db-8668-d19dae4d79cf",
       "Name": "================|            Character Creation - UTAV & KAVT"
     },
@@ -3801,10 +3793,6 @@
       "Name": "Accursed Spectre Tails For Tieflings (and other races)"
     },
     {
-      "UUID": "3601235b-3dd9-4b60-a1c7-2d7701ca1d44",
-      "Name": "Tiefling Rat Tail"
-    },
-    {
       "UUID": "7138dd34-d9d8-4820-b6f2-6add152f1ae6",
       "Name": "FelineStarterPack"
     },
@@ -3815,10 +3803,6 @@
     {
       "UUID": "c6167c45-fa70-47da-a389-653746dd151f",
       "Name": "FurryTails - Fluffy Animal Tail Collection"
-    },
-    {
-      "UUID": "5345921a-ba9c-4600-8b46-38ad84d010da",
-      "Name": "Fox Ears"
     },
     {
       "UUID": "6c87c3f8-f3a3-4c3c-a395-7b09f85e5067",
@@ -3853,18 +3837,6 @@
       "Name": "================|            Character Creation - Hair"
     },
     {
-      "UUID": "57b22f40-4886-91a0-7f70-8fec6275e773",
-      "Name": "Tepkunset Hair Collection"
-    },
-    {
-      "UUID": "84179b36-42d5-42df-9d72-b56c4e1ae67f",
-      "Name": "ASTRL Luminous Coiffure"
-    },
-    {
-      "UUID": "06ba1746-2bcf-774d-3589-6b2f58c6c2ce",
-      "Name": "PL_Fantastical_Hairstyles"
-    },
-    {
       "UUID": "43158d88-467c-4eb4-b444-4d59d07ed13b",
       "Name": "Arcane Jinx's Hairstyle"
     },
@@ -3885,18 +3857,6 @@
       "Name": "Arcane Vi's Hairstyle"
     },
     {
-      "UUID": "5549853e-4a7c-276b-b9e2-3c01cdba7400",
-      "Name": "KPDH_Hairtrix"
-    },
-    {
-      "UUID": "f148638d-8ffc-635d-4307-d4db40d40734",
-      "Name": "Elledwyn_Hairstyles"
-    },
-    {
-      "UUID": "69b3279a-d5c0-9bf3-67da-823ec359b44a",
-      "Name": "Dint999_Hairstyles"
-    },
-    {
       "UUID": "eb330d7b-4607-4e1c-86a2-966ff6b198bd",
       "Name": "BW Viking Hairstyle"
     },
@@ -3911,10 +3871,6 @@
     {
       "UUID": "e0cbb31d-5ae4-4f4d-b54d-4da5fa70fe24",
       "Name": "Labo's Custom Hairdo's"
-    },
-    {
-      "UUID": "680b2b14-1663-0701-506a-c5c23c68247e",
-      "Name": "Myky's Hairstyles"
     },
     {
       "UUID": "1fd44eaf-a4d2-4de4-9560-51a0c8a63987",
@@ -3997,20 +3953,8 @@
       "Name": "Mashed Up Hairs"
     },
     {
-      "UUID": "ba5afe33-adc7-4af3-a636-5c7e85d3e5f3",
-      "Name": "Planewalker's Barbershop"
-    },
-    {
-      "UUID": "0f86b73c-928c-033f-6d2d-abf4f06f462f",
-      "Name": "Jerinski's Alt Hairs"
-    },
-    {
       "UUID": "996ad858-0724-484c-9713-83d9244dd46a",
       "Name": "Alt Lae'zel Hair 4 Tav"
-    },
-    {
-      "UUID": "01dcf4a1-32da-5599-0681-bb95bec5ebbc",
-      "Name": "[M30] Babymetal Hairs"
     },
     {
       "UUID": "4cb5e6ec-93d3-4859-9321-23020f3df0d8",
@@ -4153,20 +4097,12 @@
       "Name": "Kylin's Hair Edits Pack 1"
     },
     {
+      "UUID": "f14dec1b-620b-465c-8034-54db520da4cc",
+      "Name": "KS HAIR Edits Pack"
+    },
+    {
       "UUID": "f81ea31a-ab62-4cb0-ac22-e70e46428555",
       "Name": "EngelsHairs"
-    },
-    {
-      "UUID": "5996622f-5711-3c82-a641-cd19382c74d1",
-      "Name": "Heroic Hairstyles"
-    },
-    {
-      "UUID": "79d2e528-8df6-b307-59d9-058aed9f9ac2",
-      "Name": "hijimare_hairs"
-    },
-    {
-      "UUID": "139c922a-7657-4514-b393-0f08e992c985",
-      "Name": "Ellian's hair"
     },
     {
       "UUID": "b7e6ca76-aeda-4be5-93b0-2870120feae8",
@@ -4177,6 +4113,10 @@
       "Name": "FL_Hair"
     },
     {
+      "UUID": "139c922a-7657-4514-b393-0f08e992c985",
+      "Name": "Ellian's hair"
+    },
+    {
       "UUID": "6ce98c5e-5b71-4433-b9e5-b8833c25833b",
       "Name": "Fairy_Hairstyle"
     },
@@ -4185,8 +4125,56 @@
       "Name": "Fairy_Hairstyle_No_Bangs"
     },
     {
-      "UUID": "f14dec1b-620b-465c-8034-54db520da4cc",
-      "Name": "KS HAIR Edits Pack"
+      "UUID": "4c5bee38-31a6-4f56-9cd0-c515638585f6",
+      "Name": "================|            Character Creation - Hair (Autosnap)"
+    },
+    {
+      "UUID": "79d2e528-8df6-b307-59d9-058aed9f9ac2",
+      "Name": "hijimare_hairs"
+    },
+    {
+      "UUID": "ba5afe33-adc7-4af3-a636-5c7e85d3e5f3",
+      "Name": "Planewalker's Barbershop"
+    },
+    {
+      "UUID": "57b22f40-4886-91a0-7f70-8fec6275e773",
+      "Name": "Tepkunset Hair Collection"
+    },
+    {
+      "UUID": "680b2b14-1663-0701-506a-c5c23c68247e",
+      "Name": "Myky's Hairstyles"
+    },
+    {
+      "UUID": "06ba1746-2bcf-774d-3589-6b2f58c6c2ce",
+      "Name": "PL_Fantastical_Hairstyles"
+    },
+    {
+      "UUID": "f148638d-8ffc-635d-4307-d4db40d40734",
+      "Name": "Elledwyn_Hairstyles"
+    },
+    {
+      "UUID": "69b3279a-d5c0-9bf3-67da-823ec359b44a",
+      "Name": "Dint999_Hairstyles"
+    },
+    {
+      "UUID": "5996622f-5711-3c82-a641-cd19382c74d1",
+      "Name": "Heroic Hairstyles"
+    },
+    {
+      "UUID": "0f86b73c-928c-033f-6d2d-abf4f06f462f",
+      "Name": "Jerinski's Alt Hairs"
+    },
+    {
+      "UUID": "5549853e-4a7c-276b-b9e2-3c01cdba7400",
+      "Name": "KPDH_Hairtrix"
+    },
+    {
+      "UUID": "01dcf4a1-32da-5599-0681-bb95bec5ebbc",
+      "Name": "[M30] Babymetal Hairs"
+    },
+    {
+      "UUID": "84179b36-42d5-42df-9d72-b56c4e1ae67f",
+      "Name": "ASTRL Luminous Coiffure"
     },
     {
       "UUID": "cfab726a-7b7c-4d0f-936c-d603366a80f5",
@@ -4829,6 +4817,10 @@
       "Name": "ShadParentsLetters"
     },
     {
+      "UUID": "56961c76-13cc-4d10-bdd5-d5e399a4a906",
+      "Name": "Immersive Dialogues"
+    },
+    {
       "UUID": "b05a2aad-1668-43b1-8722-7c5d02765fda",
       "Name": "VoicedLinesPriority"
     },
@@ -5325,10 +5317,6 @@
       "Name": "Darker Cazador's Palace"
     },
     {
-      "UUID": "f17342c7-07e7-cae9-93fd-1a5e8b4c942d",
-      "Name": "Shadowcasting"
-    },
-    {
       "UUID": "9cd84989-a41c-0359-efd4-dc414e1758dd",
       "Name": "Shadowed Torches -- Performance"
     },
@@ -5487,10 +5475,6 @@
     {
       "UUID": "5bbffb35-97f5-4576-8d1d-af43fb123c4c",
       "Name": "DIQ Dialogue Patches"
-    },
-    {
-      "UUID": "816b4e7e-c884-4627-a8bf-17f7fcf55d99",
-      "Name": "Remove_Toggle_Corpse_Requirements_ADPP"
     },
     {
       "UUID": "b2c7c572-faaa-43ae-8609-29d16fd83bb0",
